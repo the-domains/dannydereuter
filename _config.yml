@@ -1,0 +1,57 @@
+typography_spectrum: 0.19198211241282964
+color:
+  brandStrength: 0.2833701078984702
+  lightness: 0.08302656099320121
+  saturation: 0.4062475715542563
+  rhythmicContrast: 0.9834781925859722
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+layout_spectrum: 0.7623442781945267
+name: Danny DeReuter
+navigation:
+  - name: About Danny DeReuter
+    url: 'http://DannyDeReuter.com'
+    type: external
+  - name: 'HealthfulTips '
+    url: 'http://healthfultips.com'
+    type: external
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d9cf197-c065-4391-a172-2a977ebd00be.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d9cf197-c065-4391-a172-2a977ebd00be.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: 'Danny DeReuter '
+description: >-
+  Dad, chiropractor, writer, speaker, social media guy, traveler, and pain in
+  the ass.
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa98dcaf-502f-41cd-8227-acc45c536f33.jpg
+author:
+  name: Danny DeReuter
+  email: dereuter@yahoo.com
+  url: 'http://dannydereuter.com'
+github: true
